@@ -1,0 +1,18 @@
+.borda_texto{
+  text-align: center;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #ffffff;
+  font-size: 3em; color: #ffffff;
+  border: 2px solid #000000; 
+  padding: 10px;
+  background-color: #212529;
+  }
+
+  body {
+    background-color: black;
+    color: white; /* Altere a cor do texto para branco */
+}
+
+p {
+  font-size: 20px;
+}
